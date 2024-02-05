@@ -12,7 +12,9 @@ OpenProject 另類用法
 
 **目前先採用OpenProject 作為範例(open source，不用花大錢，可建立在企業intranet/防火牆內)，引導讀者，一探究竟。**
 
-test
+
+
+它也是 Trello 和 Jira 等 專案管理工具的替代品。
 
 ```html
 google-site-verification: google50f1763af1b78848.html

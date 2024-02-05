@@ -1,7 +1,5 @@
-# Page 1
+# WBS
 
-```html
-google-site-verification: google50f1763af1b78848.html
-```
+WBS 專案細項 及 甘特圖
 
-{% file src=".gitbook/assets/google50f1763af1b78848 (1).html" %}
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
