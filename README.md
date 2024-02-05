@@ -3,7 +3,7 @@
 <meta name="google-site-verification" content="hwkotx1SDsErXy_l9oABt1e_nghzRhJs4-uGf16GzfE" />
 
 # OpenProject 另類用法
-
+test
 好的 專案管理 平台， 不單單只是  設定WBS/甘特圖 就夠了。
 
 這也是為何 MS Project professional edition 賣得這麼貴，因為它讓其他專案成員，可以一起協同合作。
