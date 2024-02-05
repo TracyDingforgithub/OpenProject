@@ -6,3 +6,5 @@
   * [看板管理](openproject-ling-lei-yong-fa/kan-ban-guan-li.md)
 * [WBS 專案細項 及 甘特圖](page-1.md)
 * [Kanban 看板管理](kanban-kan-ban-guan-li.md)
+* [雙語 介面](shuang-yu-jie-mian.md)
+* [多角色 權限設定](duo-jiao-se-quan-xian-she-ding.md)

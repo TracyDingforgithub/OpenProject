@@ -18,7 +18,7 @@ Role: PM-a -> 可 "Yes or NO!!"  WBS 2.2.a ASSIGNEE
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ***
 
@@ -26,5 +26,5 @@ Role: PM-a -> 可 "Yes or NO!!"  WBS 2.2.a ASSIGNEE
 
 Role: project admin--> 後臺設定 Member/"簽核中" Workflow
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
