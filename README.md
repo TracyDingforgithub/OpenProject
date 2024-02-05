@@ -2,7 +2,7 @@
 
 OpenProject 另類用法
 
-## OpenProject 另類用法 test
+## OpenProject 另類用法
 
 好的 專案管理 平台， 不單單只是 設定WBS/甘特圖 就夠了。
 
@@ -19,5 +19,3 @@ OpenProject 另類用法
 ```html
 google-site-verification: google50f1763af1b78848.html
 ```
-
-{% file src=".gitbook/assets/google50f1763af1b78848.html" %}
