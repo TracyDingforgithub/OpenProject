@@ -1,3 +1,7 @@
+<head>
+<title>OpenProject 另類用法</title>
+<meta name="google-site-verification" content="hwkotx1SDsErXy_l9oABt1e_nghzRhJs4-uGf16GzfE" />
+
 # OpenProject 另類用法
 
 好的 專案管理 平台， 不單單只是  設定WBS/甘特圖 就夠了。
@@ -9,13 +13,12 @@
 **目前先採用OpenProject 作為範例(open source，不用花大錢，可建立在企業intranet/防火牆內)，引導讀者，一探究竟。**&#x20;
 
 test
-<head>
-<title>Example.com homepage</title>
-<meta name="google-site-verification" content="hwkotx1SDsErXy_l9oABt1e_nghzRhJs4-uGf16GzfE" />
-</head>
+
 
 ```html
 google-site-verification: google50f1763af1b78848.html
 ```
 
 {% file src=".gitbook/assets/google50f1763af1b78848.html" %}
+
+</head>
