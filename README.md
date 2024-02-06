@@ -1,7 +1,5 @@
 # Open source project platform 另類用法
 
-## OpenProject 另類用法
-
 好的 專案管理 平台， 不單單只是 設定WBS/甘特圖 就夠了。
 
 這也是為何 MS Project professional edition 賣得這麼貴，因為它讓其他專案成員，可以一起協同合作。
