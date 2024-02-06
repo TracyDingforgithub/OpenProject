@@ -22,5 +22,6 @@
 * [System admin 後臺設定](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/README.md)
   * [專案 功能模組設定(calendar/WIKI/document/forum)](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/zhuan-an-gong-neng-mo-zu-she-ding-calendarwikidocumentforum.md)
   * [UI 多語言 設定](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/ui-duo-yu-yan-she-ding.md)
+  * [Page 2](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/page-2.md)
 * [Page](system-admin-zhuan-yong/page.md)
 * [Page 1](system-admin-zhuan-yong/page-1.md)
