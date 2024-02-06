@@ -5,7 +5,7 @@
   * [Help desk-需求開單、Q\&A紀錄](openproject-ling-lei-yong-fa/help-desk-xu-qiu-kai-dan-qa-ji-lu.md)
   * [看板管理](openproject-ling-lei-yong-fa/kan-ban-guan-li.md)
   * [檔案分享 / WIKI(project based)](readme/dang-an-fen-xiang-wikiproject-based.md)
-* [Page](page.md)
+  * [軟體工程 專案管理(範例)](readme/ruan-ti-gong-cheng-zhuan-an-guan-li-fan-li.md)
 
 ## ---符合 一般專案管理 的用法---
 
@@ -14,3 +14,9 @@
 * [雙語 介面](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/shuang-yu-jie-mian.md)
 * [多角色 權限設定(隨心所欲)](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/duo-jiao-se-quan-xian-she-ding-sui-xin-suo-yu.md)
 * [email 通知設定(隨心所欲)](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/email-tong-zhi-she-ding-sui-xin-suo-yu.md)
+
+## ----system admin 專用----
+
+* [System admin 後臺設定](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/README.md)
+  * [專案 功能模組設定(calendar/WIKI/document/forum)](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/zhuan-an-gong-neng-mo-zu-she-ding-calendarwikidocumentforum.md)
+* [Page 1](system-admin-zhuan-yong/page-1.md)
