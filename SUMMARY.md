@@ -5,6 +5,7 @@
   * [Help desk-需求開單、Q\&A紀錄](openproject-ling-lei-yong-fa/help-desk-xu-qiu-kai-dan-qa-ji-lu.md)
   * [看板管理](openproject-ling-lei-yong-fa/kan-ban-guan-li.md)
   * [檔案分享 / WIKI(project based)](readme/dang-an-fen-xiang-wikiproject-based.md)
+  * [討論群組/論壇/forum](readme/tao-lun-qun-zu-lun-tan-forum.md)
   * [軟體工程 專案管理(範例)](readme/ruan-ti-gong-cheng-zhuan-an-guan-li-fan-li.md)
 
 ## ---符合 一般專案管理 的用法---
