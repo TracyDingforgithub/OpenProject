@@ -1,7 +1,5 @@
 # Open source project platform 另類用法
 
-OpenProject 另類用法
-
 ## OpenProject 另類用法
 
 好的 專案管理 平台， 不單單只是 設定WBS/甘特圖 就夠了。
@@ -12,8 +10,10 @@ OpenProject 另類用法
 
 **目前先採用Open source project platform 作為範例(open source free download，不須購買，可建立在企業intranet/防火牆內)，引導讀者，一探究竟。**
 
-<mark style="background-color:orange;">**它也是 Trello 和 Jira 等 專案管理工具的替代品**</mark><mark style="background-color:orange;">。</mark>
+[<mark style="background-color:orange;">**它也是 Trello 和 Jira 等 專案管理工具的替代品**</mark><mark style="background-color:orange;">。</mark>](#user-content-fn-1)[^1]
 
 ```html
 google-site-verification: google50f1763af1b78848.html
 ```
+
+[^1]: ## OpenProject
