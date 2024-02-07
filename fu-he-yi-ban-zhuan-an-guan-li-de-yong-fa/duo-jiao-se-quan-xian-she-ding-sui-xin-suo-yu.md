@@ -1,8 +1,16 @@
+---
+description: 特別設有 Non-member anonymous ，讓非專案reader/member 也能看到 有限度的專案內容
+---
+
 # ☀ 多角色 權限設定(隨心所欲)
+
+
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
+
+特別設有 Non-member anonymous，讓非專案reader/member 也能看到 有限度的專案內容
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
