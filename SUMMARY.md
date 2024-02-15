@@ -13,7 +13,7 @@
 ## 😎 ---符合 一般專案管理 的用法---
 
 * [☀ WBS 專案細項 及 甘特圖](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/page-1.md)
-* [☀ 針對WBS 的討論->比email 好用](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/zhen-dui-wbs-de-tao-lun-bi-email-hao-yong.md)
+* [☀ 針對WBS 的多人討論串->比email 好用](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/zhen-dui-wbs-de-duo-ren-tao-lun-chuan-bi-email-hao-yong.md)
 * [☀ Kanban 看板管理](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/kanban-kan-ban-guan-li.md)
 * [☀ 雙語 介面](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/shuang-yu-jie-mian.md)
 * [☀ 多角色 權限設定(隨心所欲)](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/duo-jiao-se-quan-xian-she-ding-sui-xin-suo-yu.md)
