@@ -6,7 +6,7 @@
 
 
 
-
+以下為 <mark style="background-color:orange;">**PDF Report with images**</mark>   輸出的截圖/範例。
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
