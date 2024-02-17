@@ -1,8 +1,8 @@
 # Open source project platform 另類用法
 
-好的 專案管理 平台， 不單單只是 設定WBS/甘特圖 就夠了。
+好的 專案管理 平台， 不單單只是 設定WBS/甘特圖 就夠了。要取得專案的成功，需要全面性、合作性的方法。
 
-這也是為何 MS Project professional edition 賣得這麼貴，因為它讓其他專案成員，可以一起協同合作。
+這也是為何 MS Project professional edition 賣得這麼貴，因為它讓所有專案成員，一起進行無縫協同合作。
 
 以下為作者累積多年實際工作案例，演繹使用<mark style="background-color:orange;">**別的專案管理軟體**</mark>，一樣可以讓其他專案成員，一起協同合作。
 
@@ -10,7 +10,10 @@
 
 [<mark style="background-color:orange;">**它**</mark>](#user-content-fn-1)[^1]<mark style="background-color:orange;">**也是 Trello 和 Jira 等 專案管理工具的替代品**</mark><mark style="background-color:orange;">。</mark>
 
+此Open source **project platform** 提供了 市面上付費解決方案如Trello和 Jira等同的功能，他也是能管理整個專案生命週期，且具成本效益的替代方案。
 
+最終目標就是讓企業內部的團隊都能透過專案透明度、當責的貢獻，充分在專案中發揮。\
+只要用對了方法和工具，就能取得非凡的成果。
 
 Effective project management is far more multifaceted than simply creating a WBS or Gantt chart. Those are just tools, and project success requires a holistic, collaborative approach.
 
