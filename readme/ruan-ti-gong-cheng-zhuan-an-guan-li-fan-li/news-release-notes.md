@@ -1,4 +1,4 @@
-# News- release notes
+# News for release notes
 
 #### SW release notes 可利用News 發布給專案成員。
 

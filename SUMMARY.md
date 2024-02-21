@@ -8,7 +8,7 @@
   * [討論群組/論壇/forum](readme/tao-lun-qun-zu-lun-tan-forum.md)
   * [軟體工程 專案管理(範例)](readme/ruan-ti-gong-cheng-zhuan-an-guan-li-fan-li/README.md)
     * [Bug report](readme/ruan-ti-gong-cheng-zhuan-an-guan-li-fan-li/bug-report.md)
-    * [News for release notes](readme/ruan-ti-gong-cheng-zhuan-an-guan-li-fan-li/news-for-release-notes.md)
+    * [News for release notes](readme/ruan-ti-gong-cheng-zhuan-an-guan-li-fan-li/news-release-notes.md)
 
 ## 😎 ---符合 一般專案管理 的用法---
 

@@ -1,3 +1,7 @@
+---
+description: 當專案有更新時，專案成員 馬上會收到email 通知。
+---
+
 # ☀ email 通知設定(隨心所欲)
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
