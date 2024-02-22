@@ -1,6 +1,6 @@
 # News for release notes
 
-#### SW release notes 可利用News 發布給專案成員。
+#### 利用News-，發布 SW release notes ，給專案成員。
 
 \->也可翻找出歷年來的release notes
 
