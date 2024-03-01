@@ -12,17 +12,17 @@
 
 ## 😎 ---符合 一般專案管理 的用法---
 
-* [☀ WBS 專案細項 及 甘特圖](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/page-1.md)
-* [☀ 針對WBS 的多人討論串->比email 好用](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/zhen-dui-wbs-de-duo-ren-tao-lun-chuan-bi-email-hao-yong.md)
-* [☀ Kanban 看板管理](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/kanban-kan-ban-guan-li.md)
-* [☀ UI 雙語 介面切換](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/ui-shuang-yu-jie-mian-qie-huan.md)
-* [☀ 多角色 權限設定(隨心所欲)](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/duo-jiao-se-quan-xian-she-ding-sui-xin-suo-yu.md)
-* [☀ email 通知設定(隨心所欲)](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/email-tong-zhi-she-ding-sui-xin-suo-yu.md)
-* [☀ 專案WBS 輸出(export to pdf/excel/Atom)](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/zhuan-an-wbs-shu-chu-export-to-pdfexcelatom.md)
+* [☀️ WBS 專案細項 及 甘特圖](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/page-1.md)
+* [☀️ 針對WBS 的多人討論串->比email 好用](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/zhen-dui-wbs-de-duo-ren-tao-lun-chuan-bi-email-hao-yong.md)
+* [☀️ Kanban 看板管理](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/kanban-kan-ban-guan-li.md)
+* [☀️ UI 雙語 介面切換](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/ui-shuang-yu-jie-mian-qie-huan.md)
+* [☀️ 多角色 權限設定(隨心所欲)](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/duo-jiao-se-quan-xian-she-ding-sui-xin-suo-yu.md)
+* [☀️ email 通知設定(隨心所欲)](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/email-tong-zhi-she-ding-sui-xin-suo-yu.md)
+* [☀️ 專案WBS 輸出(export to pdf/excel/Atom)](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/zhuan-an-wbs-shu-chu-export-to-pdfexcelatom.md)
 
 ## ----system admin 專用----
 
-* [👨💼 System admin 後臺設定](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/README.md)
+* [👨‍💼 System admin 後臺設定](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/README.md)
   * [專案 功能模組設定(calendar/WIKI/document/forum)](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/zhuan-an-gong-neng-mo-zu-she-ding-calendarwikidocumentforum.md)
   * [UI 多語言 設定](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/ui-duo-yu-yan-she-ding.md)
   * [角色(role/type) 工作流程 設定](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/jiao-se-roletype-gong-zuo-liu-cheng-she-ding.md)
