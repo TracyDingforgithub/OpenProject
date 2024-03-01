@@ -10,9 +10,9 @@
 
 [<mark style="background-color:orange;">**它**</mark>](#user-content-fn-1)[^1]<mark style="background-color:orange;">**也是 Trello 和 Jira 等 專案管理工具的替代品**</mark><mark style="background-color:orange;">。</mark>
 
-此<mark style="background-color:orange;">**Open source project platform**</mark> 提供了 市面上付費解決方案如Trello和 Jira等同的功能，他也是能管理整個專案生命週期，且具成本效益的替代方案。
+此<mark style="background-color:orange;">**Open source project platform**</mark> 提供了 市面上付費解決方案如Trello和 Jira等同的功能，它也能管理整個專案生命週期，且也具成本效益的替代方案。
 
-最終目標就是讓企業內部的團隊都能透過專案透明度、當責的貢獻，充分在專案中發揮。\
+最終目標就是讓企業內部的專案團隊都能透過專案透明度、當責的貢獻，充分在專案中發揮。\
 只要用對了方法和工具，就能取得非凡的成果。
 
 Effective project management is far more multifaceted than simply creating a WBS or Gantt chart. Those are just tools, and project success requires a holistic, collaborative approach.
