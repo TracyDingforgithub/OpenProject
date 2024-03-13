@@ -1,5 +1,5 @@
 ---
-description: 特別設有 Non-member anonymous ，讓非專案members，也能以reader身分加入，看到 有限度的專案內容
+description: 特別設有 Non-member anonymous ，讓非專案members，也能以reader身分加入專案，看到 有限度的專案內容
 ---
 
 # ☀️ 多角色 權限設定(隨心所欲)
