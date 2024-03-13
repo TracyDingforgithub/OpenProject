@@ -27,7 +27,7 @@
 
 * [💘 不同的專案/WBS，可相互 referring](te-bie-duo-zhuan-an-guan-li-de-yong-fa/page-1.md)
 
-## ----system admin 專用----
+## system admin 專用
 
 * [👨‍💼 System admin 後臺設定](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/README.md)
   * [專案 功能模組設定(calendar/WIKI/document/forum)](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/zhuan-an-gong-neng-mo-zu-she-ding-calendarwikidocumentforum.md)
