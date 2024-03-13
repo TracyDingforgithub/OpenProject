@@ -20,15 +20,9 @@
 * [☀️ email 通知設定(隨心所欲)](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/email-tong-zhi-she-ding-sui-xin-suo-yu.md)
 * [☀️ 專案WBS 輸出(export to pdf/excel/Atom)](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/zhuan-an-wbs-shu-chu-export-to-pdfexcelatom.md)
 
-## 🎯 特別 "多專案"管理 的用法---
+## 🎯 ---特別 "多專案"管理 的用法---
 
-* [☀️ 不同的 WBS/專案 相互 referring](te-bie-duo-zhuan-an-guan-li-de-yong-fa/page-1.md)
-* [☀️ 針對WBS 的多人討論串->比email 好用](te-bie-duo-zhuan-an-guan-li-de-yong-fa/zhen-dui-wbs-de-duo-ren-tao-lun-chuan-bi-email-hao-yong.md)
-* [☀️ Kanban 看板管理](te-bie-duo-zhuan-an-guan-li-de-yong-fa/kanban-kan-ban-guan-li.md)
-* [☀️ UI 雙語 介面切換](te-bie-duo-zhuan-an-guan-li-de-yong-fa/ui-shuang-yu-jie-mian-qie-huan.md)
-* [☀️ 多角色 權限設定(隨心所欲)](te-bie-duo-zhuan-an-guan-li-de-yong-fa/duo-jiao-se-quan-xian-she-ding-sui-xin-suo-yu.md)
-* [☀️ email 通知設定(隨心所欲)](te-bie-duo-zhuan-an-guan-li-de-yong-fa/email-tong-zhi-she-ding-sui-xin-suo-yu.md)
-* [☀️ 專案WBS 輸出(export to pdf/excel/Atom)](te-bie-duo-zhuan-an-guan-li-de-yong-fa/zhuan-an-wbs-shu-chu-export-to-pdfexcelatom.md)
+* [💘 不同的專案/WBS，可相互 referring](te-bie-duo-zhuan-an-guan-li-de-yong-fa/page-1.md)
 
 ## ----system admin 專用----
 

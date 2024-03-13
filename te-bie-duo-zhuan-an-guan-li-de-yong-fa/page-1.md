@@ -1,4 +1,4 @@
-# ☀️ 不同的 WBS/專案 相互 referring
+# 💘 不同的專案/WBS，可相互 referring
 
 ### 可在 <mark style="background-color:blue;">專案 W09. 3/1 meeting(WBS#2476)</mark> 說明： <mark style="background-color:red;">另由專案</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**05 GitBook for user's manual(WBS#2459)**</mark> 來完成工作細項
 
