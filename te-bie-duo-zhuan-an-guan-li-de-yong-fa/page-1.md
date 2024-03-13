@@ -3,7 +3,8 @@
 ### 可在 <mark style="background-color:blue;">專案 W09. 3/1 meeting(WBS#2476)</mark> 說明： <mark style="background-color:red;">另由專案</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**05 GitBook for user's manual(WBS#2459)**</mark> 來完成工作細項
 
 {% hint style="info" %}
-非專案成員，也能以reader身分，看到 有限度的專案內容([duo-jiao-se-quan-xian-she-ding-sui-xin-suo-yu.md](../fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/duo-jiao-se-quan-xian-she-ding-sui-xin-suo-yu.md "mention"))
+非專案成員，也能以reader身分加入專案，\
+看到 有限度的專案內容([duo-jiao-se-quan-xian-she-ding-sui-xin-suo-yu.md](../fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/duo-jiao-se-quan-xian-she-ding-sui-xin-suo-yu.md "mention"))
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
