@@ -29,8 +29,4 @@ Ultimately, the goal is empowering teams enterprise-wide with transparency, acco
 
 
 
-```html
-google-site-verification: google50f1763af1b78848.html
-```
-
 [^1]: OpenProject
