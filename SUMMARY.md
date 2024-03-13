@@ -2,7 +2,7 @@
 
 ## 🏁 Open source project platform 另類用法
 
-* [Page 1](README.md)
+* [寫在最前面/preface](README.md)
 
 ***
 
