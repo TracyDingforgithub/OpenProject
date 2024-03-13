@@ -8,6 +8,8 @@
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+***
+
 {% hint style="info" %}
 上例，是使用<mark style="background-color:green;">內建Macro 語法</mark>，<mark style="color:red;">**能動態的即時顯示最新的attributes**</mark>。
 {% endhint %}
