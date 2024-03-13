@@ -12,10 +12,6 @@
   * [Bug report](open-source-project-platform-ling-lei-yong-fa/ruan-ti-gong-cheng-zhuan-an-guan-li-fan-li/bug-report.md)
   * [News for release notes](open-source-project-platform-ling-lei-yong-fa/ruan-ti-gong-cheng-zhuan-an-guan-li-fan-li/news-for-release-notes.md)
 
-***
-
-* [🏁 Open source project platform 另類用法](readme.md)
-
 ## 😎 ---符合 一般專案管理 的用法---
 
 * [☀️ WBS 專案細項 及 甘特圖](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/page-1.md)
