@@ -4,7 +4,7 @@
 
 這也是為何 MS Project professional edition 賣得這麼貴，因為它讓所有專案成員，一起進行無縫協同合作。
 
-以下為作者累積多年實際工作案例，演繹使用<mark style="background-color:orange;">**別的專案管理軟體**</mark>，一樣可以讓所有專案成員，一起協同合作。
+以下為作者累積多年實際工作案例，演繹使用<mark style="background-color:orange;">**別的專案管理軟體**</mark><mark style="color:purple;background-color:orange;">**(TSMC 台積電 也正在使用)**</mark>，一樣可以讓所有專案成員，一起協同合作。
 
 **目前先採用**<mark style="background-color:orange;">**Open source project platform**</mark>** 作為範例(open source free download，不須購買，可建立在企業intranet/防火牆內)，引導讀者，一探究竟。**
 
