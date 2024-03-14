@@ -2,7 +2,7 @@
 
 ### 1. 目前有兩條closed服務 (#2320/<mark style="background-color:red;">#2321</mark>)，一條_新需求#2322_。
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. _新需求#2322_ 與<mark style="background-color:red;">#2321</mark> 問題相同(發問者分別是 FAE  /  PM-a)
 
