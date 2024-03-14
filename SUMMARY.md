@@ -25,7 +25,8 @@
 
 ## 🎯 ---特別 "多專案"管理 的用法---
 
-* [💘 不同的專案/WBS，可相互 referring](te-bie-duo-zhuan-an-guan-li-de-yong-fa/page-1.md)
+* [💘 不同的專案/WBS，可相互 referral](te-bie-duo-zhuan-an-guan-li-de-yong-fa/page-1.md)
+* [💘 PM可發email 通知成員 referral to 不同的專案/WBS](te-bie-duo-zhuan-an-guan-li-de-yong-fa/pm-ke-fa-email-tong-zhi-cheng-yuan-referral-to-bu-tong-de-zhuan-an-wbs.md)
 
 ## system admin 專用
 
