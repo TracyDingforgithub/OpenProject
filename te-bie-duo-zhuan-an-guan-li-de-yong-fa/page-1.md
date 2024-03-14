@@ -14,7 +14,7 @@
 {% hint style="info" %}
 專案 <mark style="background-color:blue;">W09. 3/1 meeting</mark> vs. 專案 <mark style="background-color:red;">05 Bitbook for user's manual</mark>
 
-&#x20;![](<../.gitbook/assets/image (6).png>)    ![](<../.gitbook/assets/image (4).png>) &#x20;
+&#x20;![](<../.gitbook/assets/image (6).png>)    ![](<../.gitbook/assets/image (38).png>)
 {% endhint %}
 
 
