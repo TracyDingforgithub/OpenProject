@@ -6,11 +6,11 @@
 
 以下為作者累積多年實際工作案例，演繹使用<mark style="background-color:orange;">**別的專案管理軟體**</mark><mark style="color:purple;background-color:orange;">**(TSMC 台積電 也正在使用)**</mark>，一樣可以讓所有專案成員，一起協同合作。
 
-**目前先採用**<mark style="background-color:orange;">**Open source project platform**</mark>** 作為範例(open source free download，不須購買，可建立在企業intranet/防火牆內)，引導讀者，一探究竟。**
+**目前先採用**<mark style="background-color:orange;">**Open source project platform**</mark><mark style="color:purple;background-color:orange;">**(TSMC 台積電 也正在使用)**</mark>** 作為範例(open source free download，不須購買，可建立在企業intranet/防火牆內)，引導讀者，一探究竟。**
 
 [<mark style="background-color:orange;">**它**</mark>](#user-content-fn-1)[^1]<mark style="background-color:orange;">**也是 Trello 和 Jira 等 專案管理工具的替代品**</mark><mark style="background-color:orange;">。</mark>
 
-此<mark style="background-color:orange;">**Open source project platform**</mark> 提供了 市面上付費解決方案如Trello和 Jira等同的功能，它也能管理整個專案生命週期，且也具成本效益的替代方案。
+此<mark style="background-color:orange;">**Open source project platform**</mark><mark style="color:purple;background-color:orange;">**(TSMC 台積電 也正在使用)**</mark> 提供了 市面上付費解決方案如Trello和 Jira等同的功能，它也能管理整個專案生命週期，且也具成本效益的替代方案。
 
 最終目標就是讓企業內部的專案團隊都能透過專案透明度、當責的貢獻，充分在專案中發揮。\
 只要用對了方法和工具，就能取得不同於一般人的效果。
