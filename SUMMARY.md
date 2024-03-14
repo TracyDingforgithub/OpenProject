@@ -23,7 +23,7 @@
 * [☀️ email 通知設定(隨心所欲)](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/email-tong-zhi-she-ding-sui-xin-suo-yu.md)
 * [☀️ 專案WBS 輸出(export to pdf/excel/Atom)](fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/zhuan-an-wbs-shu-chu-export-to-pdfexcelatom.md)
 
-## 🎯 ---特別 "多專案"管理 的用法---
+## 🏹 ---特別 "多專案"管理 的用法---
 
 * [💘 不同的專案/WBS，可相互 referral](te-bie-duo-zhuan-an-guan-li-de-yong-fa/page-1.md)
 * [💘 PM可發email 通知成員 referral to 不同的專案/WBS](te-bie-duo-zhuan-an-guan-li-de-yong-fa/pm-ke-fa-email-tong-zhi-cheng-yuan-referral-to-bu-tong-de-zhuan-an-wbs.md)
