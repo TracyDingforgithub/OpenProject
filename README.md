@@ -13,7 +13,7 @@
 此<mark style="background-color:orange;">**Open source project platform**</mark><mark style="color:purple;background-color:orange;">**(TSMC 台積電 也正在使用)**</mark> 提供了 市面上付費解決方案如Trello和 Jira等同的功能，它也能管理整個專案生命週期，且也具成本效益的替代方案。
 
 最終目標就是讓企業內部的專案團隊都能透過專案透明度、當責的貢獻，充分在專案中發揮。\
-只要用對了方法和工具，就能取得不同於一般專案管理的效果。
+只要用對了方法和工具，就能取得非凡的專案管理效果。
 
 Effective project management is far more multifaceted than simply creating a WBS or Gantt chart. Those are just tools, and project success requires a holistic, collaborative approach.
 
