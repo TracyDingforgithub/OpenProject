@@ -3,6 +3,7 @@
 ## 🏁 Open source project platform 另類用法
 
 * [⚽ 寫在最前面/preface](README.md)
+  * [集中管理團隊溝通和資訊](open-source-project-platform-ling-lei-yong-fa/xie-zai-zui-qian-mian-preface/ji-zhong-guan-li-tuan-dui-gou-tong-he-zi-xun.md)
 * [⚽ WBS簽核流程 實作](open-source-project-platform-ling-lei-yong-fa/qian-he-liu-cheng.md)
 * [⚽ Help desk-需求開單、Q\&A紀錄](open-source-project-platform-ling-lei-yong-fa/help-desk-xu-qiu-kai-dan-qa-ji-lu.md)
 * [⚽ 看板管理](open-source-project-platform-ling-lei-yong-fa/kan-ban-guan-li.md)
