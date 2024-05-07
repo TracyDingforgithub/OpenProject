@@ -1,0 +1,6 @@
+# 不只是PM需要，大家都需要聰明的工作
+
+
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://hkmci.com/zh-hant/asana/">https://hkmci.com/zh-hant/asana/</a></p></figcaption></figure>
+
