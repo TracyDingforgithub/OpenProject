@@ -1,3 +1,7 @@
+---
+description: by tracy_csding@hotmail.com
+---
+
 # 分享進度與成果(根據 團隊成員&專案關係人 的權限)
 
 ### 與團隊成員及專案關係人分享進度與成果 <a href="#bao-gao-yu-tuan-dui-cheng-yuan-ji-zhuan-an-guan-xi-ren-fen-xiang-jin-du-yu-cheng-guo" id="bao-gao-yu-tuan-dui-cheng-yuan-ji-zhuan-an-guan-xi-ren-fen-xiang-jin-du-yu-cheng-guo"></a>

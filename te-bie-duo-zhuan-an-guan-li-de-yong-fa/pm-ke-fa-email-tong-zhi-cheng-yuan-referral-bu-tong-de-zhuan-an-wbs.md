@@ -1,3 +1,7 @@
+---
+description: by tracy_csding@hotmail.com
+---
+
 # 💘 PM可發email 通知成員 referral 不同的專案/WBS
 
 <mark style="background-color:blue;">**PM a**</mark> 將referral 的最新資訊(copy/past)，以<mark style="background-color:green;">**@comment 通知其他專案成員**</mark>**(PM a, b, c**)。

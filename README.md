@@ -1,4 +1,8 @@
-# ⚽ 寫在最前面/preface by tracy\_csding@hotmail.com
+---
+description: by tracy_csding@hotmail.com
+---
+
+# ⚽ 寫在最前面/preface
 
 好的 專案管理 平台， 不單單只是 設定WBS/甘特圖 就夠了。要取得專案的成功，需要全面性、合作性的方法。
 

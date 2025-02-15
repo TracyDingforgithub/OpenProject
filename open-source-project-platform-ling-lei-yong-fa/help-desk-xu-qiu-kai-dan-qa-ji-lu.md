@@ -1,4 +1,8 @@
-# ⚽ Help desk-需求開單、Q\&A紀錄 by tracy\_csding@hotmail.com
+---
+description: by tracy_csding@hotmail.com
+---
+
+# ⚽ Help desk-需求開單、Q\&A紀錄
 
 ### 1. 目前有兩條closed服務 (#2320/<mark style="background-color:red;">#2321</mark>)，一&#x689D;_&#x65B0;需求#2322_。
 
