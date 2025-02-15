@@ -1,10 +1,14 @@
 ---
-description: 特別設有 Non-member anonymous ：讓非專案成員，也能以reader身分加入專案，看到 有限度的專案內容
+description: by tracy_csding@hotmail.com
 ---
 
 # ☀️ 多角色 權限設定(隨心所欲)
 
+特別設有 Non-member anonymous ：讓非專案成員，也能以reader身分加入專案，看到 有限度的專案內容
+
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ***
 
