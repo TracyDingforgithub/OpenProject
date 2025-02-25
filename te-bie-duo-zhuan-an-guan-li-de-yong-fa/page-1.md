@@ -11,7 +11,7 @@ description: by tracy_csding@hotmail.com
 看到 有限度的專案內容([duo-jue-se-quan-xian-she-ding-sui-xin-suo-yu.md](../fu-he-yi-ban-zhuan-an-guan-li-de-yong-fa/duo-jue-se-quan-xian-she-ding-sui-xin-suo-yu.md "mention"))
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
