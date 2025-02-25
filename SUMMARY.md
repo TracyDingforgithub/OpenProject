@@ -37,3 +37,7 @@
   * [專案 功能模組設定(calendar/WIKI/document/forum)](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/zhuan-an-gong-neng-mo-zu-she-ding-calendarwikidocumentforum.md)
   * [UI 多語言 設定](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/ui-duo-yu-yan-she-ding.md)
   * [角色(role/type) 工作流程 設定](system-admin-zhuan-yong/system-admin-hou-tai-she-ding/jue-se-roletype-gong-zuo-liu-cheng-she-ding.md)
+
+***
+
+* [Best Crop Monitoring Software and AI Tools for Smarter Farming](best-crop-monitoring-software-and-ai-tools-for-smarter-farming.md)
