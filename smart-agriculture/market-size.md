@@ -1,10 +1,16 @@
 ---
 icon: money-bill-trend-up
+description: >-
+  https://www.marketsandmarkets.com/Market-Reports/ai-in-agriculture-market-159957009.html
 ---
 
 # Market size
 
-### <mark style="background-color:orange;">Artificial Intelligence in Agriculture Market Size, Share & Industry Growth Analysis Report by Technology (Machine Learning, Computer Vision, and Predictive Analytics), Offering (Software, AI-as-a-Service), Application (Drone Analytics, Precision Farming) and Region - Global Forecast to 2028</mark>
+#### <mark style="background-color:orange;">Artificial Intelligence in Agriculture Market Size, Share & Industry Growth Analysis Report by Technology (Machine Learning, Computer Vision, and Predictive Analytics), Offering (Software, AI-as-a-Service), Application (Drone Analytics, Precision Farming) and Region - Global Forecast to 2028</mark>
+
+The **Artificial Intelligence in Agriculture Market size** is projected to grow from **USD 1.7 billion in 2023** to USD **4.7 billion by 2028**; growing at a Compound Annual **Growth Rate (CAGR) of 23.1%** from 2023 to 2028.
+
+AI in agriculture offers several advantages to the farmers such as real-time insights from their fields, monitor soil quality, plant health, temperature, automate irrigation, pesticide process- all of which are helping to improve the overall harvest quality and accuracy. AI in agriculture has various applications aimed at optimizing the efficiency of crop production such as precision farming, <mark style="color:red;">**livestock monitoring**</mark>, drone analytics, agriculture robots, labor management.  Increasing crop productivity through deep learning technology driving the growth of the AI in agriculture market.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -12,7 +18,7 @@ icon: money-bill-trend-up
 
 <table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><strong>Report Metric</strong></td><td valign="top"><strong>Details</strong></td></tr><tr><td valign="top"></td><td valign="top"></td></tr><tr><td valign="top"><mark style="background-color:blue;"><strong>Estimated Market Size</strong></mark></td><td valign="top"><mark style="background-color:blue;"><strong>USD 1.7 billion in 2023</strong></mark></td></tr><tr><td valign="top"><mark style="background-color:blue;"><strong>Expected Market Siz</strong></mark><strong>e</strong></td><td valign="top"><mark style="background-color:blue;"><strong>USD 4.7 billion by 2028</strong></mark></td></tr><tr><td valign="top"><strong>Growth Rate</strong></td><td valign="top"><strong>CAGR of 23.1%</strong></td></tr><tr><td valign="top"><strong>Market size available for years</strong></td><td valign="top">2019—2028</td></tr><tr><td valign="top"><strong>Base year</strong></td><td valign="top">2022</td></tr><tr><td valign="top"><strong>Forecast period</strong></td><td valign="top">2023—2028</td></tr><tr><td valign="top"><strong>Units</strong></td><td valign="top">Value (USD Billion)</td></tr><tr><td valign="top"><strong>Segments covered</strong></td><td valign="top">Technology, offering, application, and geography.</td></tr><tr><td valign="top"><strong>Geographic regions covered</strong></td><td valign="top">North America, Europe, Asia Pacific, and RoW</td></tr><tr><td valign="top"><strong>Companies:</strong> major players in the market</td><td valign="top"><p>Deere &#x26; Company (US), </p><p>IBM (US), </p><p>Microsoft (US), </p><p>The Climate Corporation (US), </p><p>AgEagle Aerial Systems Inc. (US), </p><p>Descartes Labs, Inc. (US) </p><p></p><p>Farmers Edge Inc. (Canada), </p><p>Granular Inc. (Canada)</p></td></tr></tbody></table>
 
-### <mark style="background-color:orange;">Precision Famring is the 2nd largest</mark>
+### <mark style="background-color:orange;">Precision Farming is the 2nd largest application</mark>
 
 <figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
