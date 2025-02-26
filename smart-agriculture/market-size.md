@@ -1,23 +1,24 @@
 ---
-description: >-
-  https://www.marketsandmarkets.com/Market-Reports/ai-in-agriculture-market-159957009.html
+icon: money-bill-trend-up
 ---
 
-# Smart Agriculture
+# Market size
 
-### Artificial Intelligence in Agriculture Market Size, Share & Industry Growth Analysis Report by Technology (Machine Learning, Computer Vision, and Predictive Analytics), Offering (Software, AI-as-a-Service), Application (Drone Analytics, Precision Farming) and Region - Global Forecast to 2028
+### <mark style="background-color:orange;">Artificial Intelligence in Agriculture Market Size, Share & Industry Growth Analysis Report by Technology (Machine Learning, Computer Vision, and Predictive Analytics), Offering (Software, AI-as-a-Service), Application (Drone Analytics, Precision Farming) and Region - Global Forecast to 2028</mark>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### Artificial Intelligence in Agriculture Market Report Scope
+### <mark style="background-color:orange;">Artificial Intelligence in Agriculture Market Report Scope</mark>
 
 <table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><strong>Report Metric</strong></td><td valign="top"><strong>Details</strong></td></tr><tr><td valign="top"></td><td valign="top"></td></tr><tr><td valign="top"><mark style="background-color:blue;"><strong>Estimated Market Size</strong></mark></td><td valign="top"><mark style="background-color:blue;"><strong>USD 1.7 billion in 2023</strong></mark></td></tr><tr><td valign="top"><mark style="background-color:blue;"><strong>Expected Market Siz</strong></mark><strong>e</strong></td><td valign="top"><mark style="background-color:blue;"><strong>USD 4.7 billion by 2028</strong></mark></td></tr><tr><td valign="top"><strong>Growth Rate</strong></td><td valign="top"><strong>CAGR of 23.1%</strong></td></tr><tr><td valign="top"><strong>Market size available for years</strong></td><td valign="top">2019—2028</td></tr><tr><td valign="top"><strong>Base year</strong></td><td valign="top">2022</td></tr><tr><td valign="top"><strong>Forecast period</strong></td><td valign="top">2023—2028</td></tr><tr><td valign="top"><strong>Units</strong></td><td valign="top">Value (USD Billion)</td></tr><tr><td valign="top"><strong>Segments covered</strong></td><td valign="top">Technology, offering, application, and geography.</td></tr><tr><td valign="top"><strong>Geographic regions covered</strong></td><td valign="top">North America, Europe, Asia Pacific, and RoW</td></tr><tr><td valign="top"><strong>Companies:</strong> major players in the market</td><td valign="top"><p>Deere &#x26; Company (US), </p><p>IBM (US), </p><p>Microsoft (US), </p><p>The Climate Corporation (US), </p><p>AgEagle Aerial Systems Inc. (US), </p><p>Descartes Labs, Inc. (US) </p><p></p><p>Farmers Edge Inc. (Canada), </p><p>Granular Inc. (Canada)</p></td></tr></tbody></table>
 
-<figure><img src=".gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+### <mark style="background-color:orange;">Precision Famring is the 2nd largest</mark>
 
-###
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-### Artificial Intelligence in Agriculture Market Trends:
+
+
+### <mark style="background-color:orange;">Artificial Intelligence in Agriculture Market Trends:</mark>
 
 #### Rising need for real-time data by growers and farmers to take preventive measures
 

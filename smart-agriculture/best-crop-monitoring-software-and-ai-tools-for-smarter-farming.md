@@ -19,7 +19,7 @@ description: https://flypix.ai/blog/crop-monitoring-software-tools-ai/
 {% endtab %}
 
 {% tab title="OneSoil" %}
-<figure><img src=".gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -30,7 +30,7 @@ description: https://flypix.ai/blog/crop-monitoring-software-tools-ai/
 {% endtab %}
 
 {% tab title="EOSDA Crop Monitoring" %}
-<figure><img src=".gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 EOSDA Crop Monitoring
 
@@ -47,7 +47,7 @@ EOSDA Crop Monitoring
 {% tab title="Afgremo" %}
 
 
-<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -62,7 +62,7 @@ EOSDA Crop Monitoring
 {% endtab %}
 
 {% tab title="CustomAgIntel" %}
-<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -40,6 +40,7 @@
 
 ***
 
-* [Smart Agriculture](smart-agriculture.md)
-* [Best Crop Monitoring Software and AI Tools for Smarter Farming](best-crop-monitoring-software-and-ai-tools-for-smarter-farming.md)
+* [Smart Agriculture](smart-agriculture/README.md)
+  * [Market size](smart-agriculture/market-size.md)
+  * [Best Crop Monitoring Software and AI Tools for Smarter Farming](smart-agriculture/best-crop-monitoring-software-and-ai-tools-for-smarter-farming.md)
 * [Page 1](page-1.md)
