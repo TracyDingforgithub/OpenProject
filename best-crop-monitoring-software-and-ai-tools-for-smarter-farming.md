@@ -1,13 +1,9 @@
 ---
-description: https://flypix.ai/blog/crop-monitoring-software-tools-ai/
 icon: corn
+description: https://flypix.ai/blog/crop-monitoring-software-tools-ai/
 ---
 
 # Best Crop Monitoring Software and AI Tools for Smarter Farming
-
-![](https://flypix.ai/wp-content/uploads/2023/01/flypixai-Green-header-logo.png)
-
-
 
 {% tabs %}
 {% tab title="FlyPix AI" %}
@@ -82,4 +78,4 @@ EOSDA Crop Monitoring
 {% endtab %}
 {% endtabs %}
 
-####
+#### other five more(tbd)
